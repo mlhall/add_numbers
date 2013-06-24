@@ -1,3 +1,4 @@
+#This is a comment only in branch2
 def add_two(a,b):
 	return a+b
 
