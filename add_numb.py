@@ -3,7 +3,7 @@ def add_two(a,b):
 	return a+b
 
 def main():
-	print ("2+3=", add_two(2,3))
+	print ("1+2=", add_two(1,2))
 
 if __name__ == "__main__":
 	main()
